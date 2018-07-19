@@ -1,0 +1,15 @@
+nav {
+  font-family: 'Dosis', sans-serif;
+}
+
+.centered {
+  position: absolute;
+  margin-top: 15%;
+  width: 100%;
+  height: auto;
+}
+
+body {
+  background-image: url("img/background/typewriter.jpg");
+  background-attachment: fixed;
+}
